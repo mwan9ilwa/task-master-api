@@ -1,0 +1,19 @@
+node_modules
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor config files
+.DS_Store
+.editorconfig
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
